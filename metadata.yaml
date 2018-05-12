@@ -1,0 +1,38 @@
+_repo: The-Celestial-Omnibus-and-other-Stories_34089
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Forster, E. M. (Edward Morgan)
+    alias: Forster, Edward Morgan
+    birthdate: 1879
+    deathdate: 1970
+    gutenberg_agent_id: '975'
+    url: http://www.gutenberg.org/2009/agents/975
+    wikipedia: http://en.wikipedia.org/wiki/E._M._Forster
+description: "The Celestial Omnibus and Other Stories is the title of a collection\
+  \ of short stories by E. M. Forster, first published in 1911. It contains stories\
+  \ written over the previous ten years, and together with the collection The Eternal\
+  \ Moment (1928) forms part of Forster's Collected Short Stories (1947).\n\n\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2010-10-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34089'
+  wikidata: Q7721831
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, English'
+- !lcc 'PR'
+- !lcsh 'Fiction'
+tableOfContents: The story of a panic -- The other side of the hedge -- The celestial
+  omnibus -- Other kingdom -- The curate's friend -- The road from Colonus.
+title: The Celestial Omnibus and other Stories
+url: http://www.gutenberg.org/ebooks/34089
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Celestial_Omnibus
